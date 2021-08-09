@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # autoclick.py: 1
-pywin32 == 224
+pywin32 == 301
 
 # autoclick.py: 1
 win32compat == 221.26
